@@ -343,9 +343,9 @@ ul {
   padding: 10px;
   color: #fff;
   transition: all 0.3s ease-in-out;
-  position: absolute;
+  position: fixed;
   right: -45px;
-  bottom: 10%;
+  top: 50%;
   transform: rotate(-90deg) translateY(-50%);
 }
 .landing .my-container {
@@ -398,6 +398,13 @@ ul {
   background-color: #919191;
   padding: 100px 0;
   color: #fff;
+  position: relative;
+}
+.sec-section .moon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 200px;
 }
 .sec-section hr {
   width: 5%;
