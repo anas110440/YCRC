@@ -445,6 +445,7 @@ ul {
   border: 1px solid #828282;
   cursor: pointer;
   padding: 25px 0;
+  margin-bottom: 20px;
 }
 .projects .category .box i {
   color: var(--main-color);
