@@ -347,6 +347,7 @@ ul {
   right: -45px;
   top: 50%;
   transform: rotate(-90deg) translateY(-50%);
+  z-index: 999;
 }
 .landing .my-container {
   width: 100%;
